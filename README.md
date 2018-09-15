@@ -1,6 +1,7 @@
 # Multi-Client-Chat-Server-Using-Python
 This is simple chat system using socket Programming.
-In This system two client can directly chat connecting via server.
+First I create Tcp Server.
+Now two client can chat directly connecting via ip Tcp server.
 # How To Run
 1.First run server.py to establish server connection
 2.Then run clientsend.py and clientrecv.py script
