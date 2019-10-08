@@ -10,5 +10,5 @@ Then they can chat together.
 # In this system Group chat also can be happen
 for group chat run client.py more then twice then give input accoreding to need then group chat will start
 # AnyBody can contribute in this to improve group chatting.
-To contribute just fork and put pull request to me.
+To contribute just fork and raise pull request to me if changes are valid then I will merge them.
 Thank You.
