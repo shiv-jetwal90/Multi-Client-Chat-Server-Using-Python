@@ -1,5 +1,5 @@
 # Multi-Client-Chat-Server-Using-Python
-This is simple chat system using socket Programming.
+This is simple multi client chat system using socket Programming.
 first I create Tcp Server.
 Now two client can connect via IP of Tcp server.
 Then they can chat together.
