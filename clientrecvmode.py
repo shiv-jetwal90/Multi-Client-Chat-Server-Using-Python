@@ -9,6 +9,7 @@ port=1234
 '''client
 host=input("enter the name of  server")
 port=1234
+#added comment
 '''
 s.bind((host,port))
 print("server created successfully waiting for connection...")
@@ -36,6 +37,6 @@ while(True):
 	else:
 		i_msg=i_msg.decode()
 		print("client1 says->",i_msg)
-	#print('\n')
+	
 
 
